@@ -1,0 +1,3 @@
+Enter number of pages in the reference string: 12
+Enter the reference string (separate pages by space): 7 0 1 2 0 3 0 4 2 3 0 3
+Enter number of frames: 3
